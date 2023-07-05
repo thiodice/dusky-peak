@@ -8,5 +8,6 @@
 <body>
   <?php include('./components/page-navigation.inc.php') ?>
   <h1>Dusky Peak</h1>
+  <?php include('./components/page-footer.inc.php') ?>
 </body>
 </html>
